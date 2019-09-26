@@ -1,0 +1,11 @@
+--2019-09-24 20:48:45--  https://eus-www.sway-cdn.com/s/lS9lnvgYelIJHUrK/images/AJBYoWDmgsV86b?quality=960
+Resolving eus-www.sway-cdn.com (eus-www.sway-cdn.com)... 104.90.178.136
+Connecting to eus-www.sway-cdn.com (eus-www.sway-cdn.com)|104.90.178.136|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63023 (62K) [image/jpeg]
+Saving to: ‘polls/static/polls/images/background.jpg’
+
+                polls/static/po   0%[                                                       ]       0  --.-KB/s               polls/static/polls/images/backg 100%[======================================================>]  61.55K  --.-KB/s    in 0.001s  
+
+2019-09-24 20:48:46 (54.9 MB/s) - ‘polls/static/polls/images/background.jpg’ saved [63023/63023]
+
